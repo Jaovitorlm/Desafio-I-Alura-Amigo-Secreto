@@ -51,7 +51,7 @@ Realiza o sorteio de um amigo aleatório:
 - Desativa o botão de sorteio após a execução.
 
 ### 6. Função `formatarTexto` ✍️
-Formata o texto para que a primeira letra fique maiúscula e o restante minúsculo.
+Formata o texto para que a primeira letra de cada palavra fique maiúscula, enquanto palavras como 'de', 'do', 'e', etc., permanecem minúsculas, exceto quando são a primeira palavra do nome.
 
 ### 7. Função `reiniciarLista` 🔄
 Botão extra adicionado por mim:
