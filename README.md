@@ -61,7 +61,7 @@ Botão extra adicionado por mim:
 
 ## Como Executar o Projeto 🛠️
 1. Clone este repositório ou copie os arquivos para o seu ambiente local.
-2. Abra o arquivo HTML no navegador.
+2. Ou simplesmente abra o link disponível na barra lateral (o projeto foi hospedado na Vercel).
 3. Interaja com os seguintes elementos:
    - **Campo de entrada**: Digite o nome de um amigo e clique em "Adicionar".
    - **Botão de sorteio**: Clique para sortear um amigo aleatório da lista.
